@@ -2,7 +2,7 @@
 
 - Atualmente estou cursando Sistemas de Informação 5° semestre.
 - Atualmente  estou estudando HTML/CSS e JS.
-- Estou procurando um estágio de TI.
+- Estou procurando uma vagas na área de Desenvolvimento/Correlatas.
 - Pronomes: ELE/DELE
 
 <div >
